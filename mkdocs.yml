@@ -2,6 +2,7 @@ site_name: That's Clelia's website!
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+
   palette: 
 
     # Palette toggle for light mode
